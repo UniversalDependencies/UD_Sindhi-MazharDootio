@@ -1,13 +1,5 @@
 # Summary
-
-UD_Sindhi-STB is based on the Universal Sindhi Tree bank (USTB). It is created at Shaheed Zulifqar Ali Bhutto Institute of Science and Technology (SZABIST)
-Karachi Sindh Pakistan. The tree bank is applied on different types of Sindhi tree bank to identify the status of Sindhi tokens. Along with UPOS, the Sindhi POS (SPOS)
-is also used to tag the Sindhi tokens. Tokens are separated on basis of POS, gender, number, person, morphology and lemma. The pronounciation of each Sindhi token
-is shown in English language also.
-Results of tagging UPOS and SPOS show proper mapping of both tag sets. All the texts were processed automatically at tokenization, morphological
-and chunk level. Then, the full syntactic analysis were perfomed manually by parser. However, all the tagging and parsing processes are validated manually by
-trained annotators.
-The next version will be more detailed and with more records.
+The Sindhi Universal Dependency Treebank was automatically converted from Sindhi Dependency Treebank (SDTB) which is part of an ongoing effort of creating multi-layered treebanks for Sindhi. 
 
 # Introduction
 
