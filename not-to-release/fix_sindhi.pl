@@ -51,20 +51,30 @@ while(<>)
             $f[5] = $feats;
             splice(@f, 6, 4);
         }
+        # Fix UPOS of punctuation.
+        if($f[3] eq 'PERIOD')
+        {
+            $f[3] = 'PUNCT';
+        }
         # Fix features.
         my $feats = $f[5];
         $feats =~ s/\|$//;
         $feats = '' if($feats eq '_');
         my @feats = split(/\|/, $feats);
-        @feats = map {s/^MorphologyForm/Form/; $_} (@feats);
+        @feats = map {s/Case=ACC/Case=Acc/; s/^MorphologyForm/Form/; $_} (@feats);
         @feats = sort {lc($a) cmp lc($b)} (@feats);
-        $f[5] = $feats = join('|', @feats);
-        # Although the LEMMA column contains the lemma, there is 'Lemma=' in $f[6] and a copy of the lemma in $f[7]. But there is no tree.
-        $f[6] = 0;
-        $f[7] = 'dep';
-        # Current $f[8] is 'Pronunciation=' and $f[9] is the value. We will keep the value but name it Translit.
-        $f[8] = '_';
-        $f[9] = "Translit=$f[9]";
+        $feats = join('|', @feats);
+        $f[5] = $feats ne '' ? $feats : '_';
+        # This has been fixed, do not apply it again:
+        if(0)
+        {
+            # Although the LEMMA column contains the lemma, there is 'Lemma=' in $f[6] and a copy of the lemma in $f[7]. But there is no tree.
+            $f[6] = 0;
+            $f[7] = 'dep';
+            # Current $f[8] is 'Pronunciation=' and $f[9] is the value. We will keep the value but name it Translit.
+            $f[8] = '_';
+            $f[9] = "Translit=$f[9]";
+        }
         $_ = join("\t", @f);
     }
     # Re-introduce the line-terminating LF character.
