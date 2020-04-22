@@ -42,6 +42,11 @@ while(<>)
         {
             $f[$i] =~ s/\s+//g;
         }
+        # The features are spread across multiple columns but they should be all in $f[5].
+        # Current $f[5]=Case, $f[6]=Gender, $f[7]=Number, $f[8]=Person, $f[9]=MorphologyForm
+        my $feats = join('', @f[5..9]);
+        $f[5] = $feats;
+        splice(@f, 6, 4);
         $_ = join("\t", @f);
     }
     # Re-introduce the line-terminating LF character.
