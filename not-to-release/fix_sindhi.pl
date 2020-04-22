@@ -27,12 +27,21 @@ while(<>)
     if(m/^\d+/)
     {
         my @f = split(/\t/, $_);
-        # $f[4] should be XPOS but this file seems to have two kinds of XPOS, also in $f[5].
-        $f[4] =~ s/\s//g;
-        $f[5] =~ s/XPOS\s*=\s*//;
-        $f[5] =~ s/\s+/_/g;
-        $f[4] .= "_$f[5]";
-        splice(@f, 5, 1);
+        # This has been fixed, do not apply it again:
+        if(0)
+        {
+            # $f[4] should be XPOS but this file seems to have two kinds of XPOS, also in $f[5].
+            $f[4] =~ s/\s//g;
+            $f[5] =~ s/XPOS\s*=\s*//;
+            $f[5] =~ s/\s+/_/g;
+            $f[4] .= "_$f[5]";
+            splice(@f, 5, 1);
+        }
+        # The features contain extra spaces, get rid of them.
+        for(my $i = 5; $i <= $#f; $i++)
+        {
+            $f[$i] =~ s/\s+//g;
+        }
         $_ = join("\t", @f);
     }
     # Re-introduce the line-terminating LF character.
