@@ -37,16 +37,34 @@ while(<>)
             $f[4] .= "_$f[5]";
             splice(@f, 5, 1);
         }
-        # The features contain extra spaces, get rid of them.
-        for(my $i = 5; $i <= $#f; $i++)
+        # This has been fixed, do not apply it again:
+        if(0)
         {
-            $f[$i] =~ s/\s+//g;
+            # The features contain extra spaces, get rid of them.
+            for(my $i = 5; $i <= $#f; $i++)
+            {
+                $f[$i] =~ s/\s+//g;
+            }
+            # The features are spread across multiple columns but they should be all in $f[5].
+            # Current $f[5]=Case, $f[6]=Gender, $f[7]=Number, $f[8]=Person, $f[9]=MorphologyForm
+            my $feats = join('', @f[5..9]);
+            $f[5] = $feats;
+            splice(@f, 6, 4);
         }
-        # The features are spread across multiple columns but they should be all in $f[5].
-        # Current $f[5]=Case, $f[6]=Gender, $f[7]=Number, $f[8]=Person, $f[9]=MorphologyForm
-        my $feats = join('', @f[5..9]);
-        $f[5] = $feats;
-        splice(@f, 6, 4);
+        # Fix features.
+        my $feats = $f[5];
+        $feats =~ s/\|$//;
+        $feats = '' if($feats eq '_');
+        my @feats = split(/\|/, $feats);
+        @feats = map {s/^MorphologyForm/Form/; $_} (@feats);
+        @feats = sort {lc($a) cmp lc($b)} (@feats);
+        $f[5] = $feats = join('|', @feats);
+        # Although the LEMMA column contains the lemma, there is 'Lemma=' in $f[6] and a copy of the lemma in $f[7]. But there is no tree.
+        $f[6] = 0;
+        $f[7] = 'dep';
+        # Current $f[8] is 'Pronunciation=' and $f[9] is the value. We will keep the value but name it Translit.
+        $f[8] = '_';
+        $f[9] = "Translit=$f[9]";
         $_ = join("\t", @f);
     }
     # Re-introduce the line-terminating LF character.
