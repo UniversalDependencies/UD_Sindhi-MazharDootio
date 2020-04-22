@@ -13,6 +13,11 @@ while(<>)
 {
     # Remove the line break. Even if it is CR LF, we will later add just LF (provided this script is run on Linux).
     s/\r?\n$//;
+    # Skip the endian mark on the first line.
+    if(m/\x{FEFF}/)
+    {
+        next;
+    }
     # Empty lines between sentences must be really empty. For example, they must not contain 9 TAB characters.
     if(m/^\s*$/)
     {
