@@ -28,6 +28,7 @@ while(<>)
         $f[5] =~ s/\s+/_/g;
         $f[4] .= "_$f[5]";
         splice(@f, 5, 1);
+        $_ = join("\t", @f);
     }
     # Re-introduce the line-terminating LF character.
     $_ .= "\n";
