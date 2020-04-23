@@ -51,6 +51,11 @@ while(<>)
             $f[5] = $feats;
             splice(@f, 6, 4);
         }
+        # Fix UPOS CONJ (UDv1) --> CCONJ (UDv2).
+        if($f[3] eq 'CONJ')
+        {
+            $f[3] = 'CCONJ';
+        }
         # Fix UPOS of punctuation.
         if($f[3] eq 'PERIOD')
         {
