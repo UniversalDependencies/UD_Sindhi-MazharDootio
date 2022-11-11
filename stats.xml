@@ -50,7 +50,8 @@
     <feat name="Person" value="3" upos="ADJ,ADV,DET,INTJ,NOUN,PRON,PROPN,VERB">2255</feat><!-- ماڻهو, دنيا, سنڌ, انسان, هُو, زندگي, هن, سنڌي, سٺو, هر -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="1">
-    <dep name="dep">6863</dep>
+  <deps unique="2">
+    <dep name="dep">6144</dep>
+    <dep name="punct">719</dep>
   </deps>
 </treebank>
