@@ -8867,15 +8867,15 @@
 8	آهي	آهي	AUX	VB__فعل_معاون	Form=Simple|Number=Sing	0	dep	_	Translit=Aahay
 
 # sent_id = 664
-# text = سنڌي  ٻولي دنيا  جي پراڻي ۽  شاهوڪار  ٻولي آهي .
-1	سنڌي 	سنڌ 	PROPN	NNP__اسم_خاص	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Sindhi
-2	ٻولي	ٻول 	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Bboli
-3	دنيا 	دنيا 	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Duniyaa
+# text = سنڌي ٻولي دنيا جي پراڻي ۽ شاهوڪار ٻولي آهي .
+1	سنڌي	سنڌ	PROPN	NNP__اسم_خاص	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Sindhi
+2	ٻولي	ٻول	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Bboli
+3	دنيا	دنيا	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Duniyaa
 4	جي	جي	ADP	IN__حرف_جر	Form=Simple|Number=Sing	0	dep	_	Translit=ji
 5	پراڻي	پراڻي	ADJ	JJ__صفت	Form=Simple|Number=Sing	0	dep	_	Translit=Puraani
-6	۽ 	۽ 	CCONJ	CC__حرف_جملو	Form=Simple|Number=Sing	0	dep	_	Translit=Aen
-7	شاهوڪار 	شاهوڪار 	ADJ	JJ__صفت	Case=Nom|Form=Bound|Number=Sing|Person=3	0	dep	_	Translit=Shahookaar
-8	ٻولي	ٻول 	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Bboli
+6	۽	۽	CCONJ	CC__حرف_جملو	Form=Simple|Number=Sing	0	dep	_	Translit=Aen
+7	شاهوڪار	شاهوڪار	ADJ	JJ__صفت	Case=Nom|Form=Bound|Number=Sing|Person=3	0	dep	_	Translit=Shahookaar
+8	ٻولي	ٻول	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Bboli
 9	آهي	آهي	AUX	VB__فعل_معاون	Form=Simple|Number=Sing	0	dep	_	Translit=Aahay
 10	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
