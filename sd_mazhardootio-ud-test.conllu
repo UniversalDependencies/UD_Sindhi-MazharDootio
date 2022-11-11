@@ -1442,13 +1442,16 @@
 5	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 6	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 121
-# text = زندگي کي جيئڻ سکو . زندگي جو وهنوار سادگي سان هلائجي .
+# sent_id = 121A
+# text = زندگي کي جيئڻ سکو .
 1	زندگي	زندگي	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Zindagi
 2	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=khe
 3	جيئڻ	جيءُ	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Jeean
 4	سکو	سک	VERB	VB__فعل	Case=Acc|Form=Bound|Number=Sing	0	dep	_	Translit=Sikho
 5	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 121B
+# text = زندگي جو وهنوار سادگي سان هلائجي .
 1	زندگي	زندگي	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Zindagi
 2	جو	جو	ADP	IN__حرفِ_جر	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Jo
 3	وهنوار	وهنوار	NOUN	NN__اسم	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Wahnwaar
@@ -1802,13 +1805,16 @@
 7	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 8	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 150
-# text = پينگھي ۾ لڏجي ٿو . پنهنجي ڌرتي ۽ قوم سان محبت ڪرڻ ڀي عبادت آهي .
+# sent_id = 150A
+# text = پينگھي ۾ لڏجي ٿو .
 1	پينگھي	پينگھ	NOUN	NN__اسم	Case=Nom|Form=Bound|Number=Sing	0	dep	_	Translit=peenghay
 2	۾	۾	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Me
 3	لڏجي	لڏ	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Ludjay
 4	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=tho
 5	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 150B
+# text = پنهنجي ڌرتي ۽ قوم سان محبت ڪرڻ ڀي عبادت آهي .
 1	پنهنجي	پنهنجي	PRON	PRP__ضمير	Form=Bound|Number=Sing	0	dep	_	Translit=Pahenji
 2	ڌرتي	ڌرتي	NOUN	NN__اسم	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=dharti
 3	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	0	dep	_	Translit=Aen
@@ -1858,14 +1864,17 @@
 16	ٿا	ٿو	VERB	VB__فعل	Form=Simple|Number=Plur	0	dep	_	Translit=thaa
 17	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 153
-# text = ٻارن کي سٺي تربيت ڏيو . ٻار ميدان ۾ راندروند ڪن ٿا .
+# sent_id = 153A
+# text = ٻارن کي سٺي تربيت ڏيو .
 1	ٻارن	ٻار	NOUN	NNS__اسم	Case=Acc|Form=Bound|Number=Plur	0	dep	_	Translit=baaran
 2	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=khe
 3	سٺي	سٺي	ADJ	JJ__صفت	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Suthi
 4	تربيت	تربيت	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Tarbiat
 5	ڏيو	ڏي	VERB	VBG__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=ddyo
 6	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 153B
+# text = ٻار ميدان ۾ راندروند ڪن ٿا .
 1	ٻار	ٻار	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=baar
 2	ميدان	ميدان	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Medaan
 3	۾	۾	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Me
@@ -1874,13 +1883,16 @@
 6	ٿا	ٿو	VERB	VB__فعل	Form=Simple|Number=Plur	0	dep	_	Translit=thaa
 7	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 154
-# text = ٻار معصوم ٿيندا آهن . ٻار گھر کي جنت بڻائيندا آهن .
+# sent_id = 154A
+# text = ٻار معصوم ٿيندا آهن .
 1	ٻار	ٻار	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=baar
 2	معصوم	معصوم	ADJ	JJ__صفت	Case=Acc|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Maasoom
 3	ٿيندا	ٿي	VERB	VBG__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=Theenda
 4	آهن	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Plur	0	dep	_	Translit=Aahin
 5	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 154B
+# text = ٻار گھر کي جنت بڻائيندا آهن .
 1	ٻار	ٻار	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=baar
 2	گھر	گھر	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=ghar
 3	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=khe
@@ -2095,21 +2107,24 @@
 8	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 9	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 171
-# text = اسين بس رهياسين اڌورا اڌورا . اسلم لنڊن وڃڻو آهي .
+# sent_id = 171A
+# text = اسين بس رهياسين اڌورا اڌورا .
 1	اسين	اسين	PRON	PRP__ضمير	Case=Nom|Form=Bound|Number=Plur|Person=1	0	dep	_	Translit=Aseen
 2	بس	بس	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Bas
 3	رهياسين	ره	VERB	VB__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=Rahya
 4	اڌورا اڌورا	اڌورو	NOUN	NNS__اسم	Form=Bound|Gender=Masc|Number=Plur	0	dep	_	Translit=AdhoraAdhora
 5	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 171B
+# text = اسلم لنڊن وڃڻو آهي .
 1	اسلم	اسلم	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Aslam
 2	لنڊن	لنڊن	PROPN	NNP__اسم_خاص	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=London
 3	وڃڻو	وڃ	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Waghhano
 4	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 5	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 172
-# text = اسلم گوپال کي خوش چوي ٿو . سليم گھوڙي کي پاڻي پياري ٿو .
+# sent_id = 172A
+# text = اسلم گوپال کي خوش چوي ٿو .
 1	اسلم	اسلم	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Aslam
 2	گوپال	گوپال	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Gopal
 3	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=khe
@@ -2117,6 +2132,9 @@
 5	چوي	چوي	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=chaway
 6	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=tho
 7	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 172B
+# text = سليم گھوڙي کي پاڻي پياري ٿو .
 1	سليم	سليم	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Saleem
 2	گھوڙي	گھوڙي	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Number=Sing	0	dep	_	Translit=Ghorray
 3	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=khe
@@ -3384,14 +3402,17 @@
 6	ٿي	ٿي	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=thee
 7	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 264
-# text = ڪاوڙ هميشه نقصان ڏيندي آهي . ڪاوڙ ماريندي آ ۽ مسڪراهٽ جيئاريندي آ .
+# sent_id = 264A
+# text = ڪاوڙ هميشه نقصان ڏيندي آهي .
 1	ڪاوڙ	ڪاوڙ	ADJ	JJ__صفت	Case=Acc|Form=Simple|Gender=Fem|Number=Sing	0	dep	_	Translit=kaawar
 2	هميشه	هميشه	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Hamesha
 3	نقصان	نقصان	ADJ	JJ__صفت	Case=Acc|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Nuqsaan
 4	ڏيندي	ڏي	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Deendi
 5	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 6	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 264B
+# text = ڪاوڙ ماريندي آ ۽ مسڪراهٽ جيئاريندي آ .
 1	ڪاوڙ	ڪاوڙ	ADJ	JJ__صفت	Case=Acc|Form=Simple|Gender=Fem|Number=Sing	0	dep	_	Translit=kaawar
 2	ماريندي	مار	VERB	-__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Maareendi
 3	آ	آ	VERB	-__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=Aa
@@ -3850,14 +3871,17 @@
 8	ٿا	ٿو	VERB	VB__فعل	Form=Simple|Number=Plur	0	dep	_	Translit=thaa
 9	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 304
-# text = سمورا ٻار معصوم ٿيندا آهن . سمورا ٻار گھر کي جنت بڻائيندا آهن .
+# sent_id = 304A
+# text = سمورا ٻار معصوم ٿيندا آهن .
 1	سمورا	سمورو	ADJ	JJ__صفت	Form=Bound|Number=Plur	0	dep	_	Translit=Samoora
 2	ٻار	ٻار	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=baar
 3	معصوم	معصوم	ADJ	JJ__صفت	Case=Acc|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Maasoom
 4	ٿيندا	ٿي	VERB	VBG__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=Theenda
 5	آهن	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Plur	0	dep	_	Translit=Aahin
 6	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 304B
+# text = سمورا ٻار گھر کي جنت بڻائيندا آهن .
 1	سمورا	سمورو	ADJ	JJ__صفت	Form=Bound|Number=Plur	0	dep	_	Translit=Samoora
 2	ٻار	ٻار	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=baar
 3	گھر	گھر	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=ghar
@@ -4655,8 +4679,8 @@
 7	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 8	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 368
-# text = هُو تنهنجو ۽ هي منهنجو قلم آهي . دولت جي لالچ ۾ انسان پاڻ کي ڀي وساري ڇڏي ٿو .
+# sent_id = 368A
+# text = هُو تنهنجو ۽ هي منهنجو قلم آهي .
 1	هُو	هُو	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Hoo
 2	تنهنجو	تنهنجو	PRON	PRP__ضمير	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Tuhenjo
 3	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	0	dep	_	Translit=Aen
@@ -4665,6 +4689,9 @@
 6	قلم	قلم	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=qalam
 7	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 8	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 368B
+# text = دولت جي لالچ ۾ انسان پاڻ کي ڀي وساري ڇڏي ٿو .
 1	دولت	دولت	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Doast
 2	جي	جي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Je
 3	لالچ	لالچ	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Laalach
@@ -5550,8 +5577,8 @@
 9	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 10	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 434
-# text = وڏيرن جي ظلم ۽ خوف کان ڪيترا ئي ماڻهو ڳوٺن مان ڇڏي شهرن ۾ رهن ٿا . جو عشق دنيا سان نه هوندو آهي .
+# sent_id = 434A
+# text = وڏيرن جي ظلم ۽ خوف کان ڪيترا ئي ماڻهو ڳوٺن مان ڇڏي شهرن ۾ رهن ٿا .
 1	وڏيرن	وڏيرو	ADJ	JJ__صفت	Form=Bound|Number=Plur	0	dep	_	Translit=Wadderan
 2	جي	جي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Je
 3	ظلم	ظلم	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Zulum
@@ -5569,14 +5596,17 @@
 15	رهن	ره	VERB	VB__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=Rahan
 16	ٿا	ٿو	VERB	VB__فعل	Form=Simple|Number=Plur	0	dep	_	Translit=thaa
 17	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
-2	جو	جو	ADP	IN__حرفِ_جر	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Jo
-3	عشق	عشق	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=ishq
-4	دنيا	دنيا	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Duniyaa
-5	سان	سان	ADP	IN__حرفِ_جر	Form=Bound|Number=Sing	0	dep	_	Translit=Saan
-6	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Na
-7	هوندو	هوندو	VERB	VBG__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Hoondo
-8	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
-9	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 434B
+# text = جو عشق دنيا سان نه هوندو آهي .
+1	جو	جو	ADP	IN__حرفِ_جر	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Jo
+2	عشق	عشق	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=ishq
+3	دنيا	دنيا	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Duniyaa
+4	سان	سان	ADP	IN__حرفِ_جر	Form=Bound|Number=Sing	0	dep	_	Translit=Saan
+5	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Na
+6	هوندو	هوندو	VERB	VBG__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Hoondo
+7	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
+8	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
 # sent_id = 435
 # text = ملڪ کي سياستدانن تباھ ڪري ڇڏيو آهي .
