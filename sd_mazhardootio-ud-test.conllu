@@ -203,7 +203,7 @@
 5	جو	جو	ADP	IN__حرفِ_جر	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Jo
 6	ساٿ	ساٿ	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Saath
 7	ڏجي	ڏج	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Ddijay
-7	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+8	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
 # sent_id = 20
 # text = هر ماڻهو کي اهميت ۽ عزت ڏيڻ گھرجي .
@@ -248,8 +248,8 @@
 3	لاءِ	لاءِ	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Lae
 4	لنڊن	لنڊن	PROPN	NNP__اسم_خاص	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=London
 5	ويو	ويو	VERB	VBD__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Wayo
-5	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
-6	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+6	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
+7	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
 # sent_id = 24
 # text = نرم آهيان بي ساھ ته نه آهيان .
@@ -270,11 +270,11 @@
 4	ماحول	ماحول	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Maahol
 5	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=khe
 6	سمجھڻ	سمجھ	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Samjhann
-6	۾	۾	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Me
-7	وقت	وقت	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Waqt
-8	لڳي	لڳ	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Laghay
-9	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=tho
-10	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+7	۾	۾	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Me
+8	وقت	وقت	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Waqt
+9	لڳي	لڳ	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Laghay
+10	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=tho
+11	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
 # sent_id = 26
 # text = مِينهن جي مند ۾ کنڀيون جام ٿين .
@@ -284,8 +284,8 @@
 4	۾	۾	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Me
 5	کنڀيون	کنڀي	NOUN	NNS__اسم	Case=Acc|Form=Bound|Number=Plur	0	dep	_	Translit=khunbhyoon
 6	جام	جام	ADJ	JJ__صفت	Case=Nom|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Jaam
-6	ٿين	ٿي	VERB	VB__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=thian
-7	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+7	ٿين	ٿي	VERB	VB__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=thian
+8	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
 # sent_id = 27
 # text = مون ڏٺو ته هُو تمام گھڻو سوچي رهيو آهي .
@@ -296,9 +296,9 @@
 5	تمام	تمام	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Tamam
 6	گھڻو	گھڻو	ADJ	JJ__صفت	Case=Nom|Form=Simple|Number=Sing	0	dep	_	Translit=Ghanno
 7	سوچي	سوچ	VERB	VB__فعل	Case=Acc|Form=Bound|Number=Sing	0	dep	_	Translit=Sochay
-7	رهيو	رهيو	VERB	VBD__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Rahyo
-8	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
-9	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+8	رهيو	رهيو	VERB	VBD__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Rahyo
+9	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
+10	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
 # sent_id = 28
 # text = موت جي ڊپ کان هُو اڪيلو سمهي ئي نه ٿو .
@@ -674,8 +674,8 @@
 11	ٿي	ٿي	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=thee
 12	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 58
-# text = گلابي رنگ جي چادر سٺي آهي . گلاب جو گل بهترين گلاب آهي .
+# sent_id = 58A
+# text = گلابي رنگ جي چادر سٺي آهي .
 1	گلابي	گلاب	ADJ	JJ__صفت	Case=Acc|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=gulabi
 2	رنگ	رنگ	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing	0	dep	_	Translit=Rang
 3	جي	جي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Je
@@ -683,6 +683,9 @@
 5	سٺي	سٺي	ADJ	JJ__صفت	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Suthi
 6	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 7	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 58B
+# text = گلاب جو گل بهترين گلاب آهي .
 1	گلاب	گلاب	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Gulaab
 2	جو	جو	ADP	IN__حرفِ_جر	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Jo
 3	گل	گل	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Gul
@@ -1036,13 +1039,16 @@
 6	ٿي	ٿي	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=thee
 7	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 89
-# text = شازيه منهنجي جان آهي . ناهيد سهڻي ڇوڪري آهي .
+# sent_id = 89A
+# text = شازيه منهنجي جان آهي .
 1	شازيه	شازيه	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Shazia
 2	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnji
 3	جان	جان	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Jaan
 4	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 5	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
+
+# sent_id = 89B
+# text = ناهيد سهڻي ڇوڪري آهي .
 1	ناهيد	ناهيد	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Naheed
 2	سهڻي	سهڻي	ADJ	JJ__صفت	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Suhni
 3	ڇوڪري	ڇوڪرِ	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=chhokri
