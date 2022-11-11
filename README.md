@@ -1,5 +1,5 @@
 # Summary
-The Sindhi Universal Dependency Treebank was automatically converted from Sindhi Dependency Treebank (SDTB) which is part of an ongoing effort of creating multi-layered treebanks for Sindhi. 
+The Sindhi Universal Dependency Treebank was automatically converted from Sindhi Dependency Treebank (SDTB) which is part of an ongoing effort of creating multi-layered treebanks for Sindhi.
 
 # Introduction
 
@@ -48,6 +48,13 @@ Dootio, Mazhar Ali, and Asim Imdad Wagan. "Unicode-8 based linguistics data set 
 Dootio, Mazhar Ali, and Asim Imdad Wagan. "Automatic Stemming and Lemmatization Process for Sindhi Text."
 Journal of Social Sciences and Interdisciplinary Research (JSSIR), NED University Engineering and Technology Karachi Sindh Pakistan,
 Vol.6, Issue. 2 , pages: 19-28, year December 2017
+
+
+# Changelog
+
+* 20??-??-15 v2.??
+  * Initial release in Universal Dependencies. (There are data in the repository since 2019, i.e., before UD v2.5, but the data did not pass validation and the treebank was not released.)
+
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
