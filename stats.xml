@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>675</sentences><tokens>6863</tokens><words>6863</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>675</sentences><tokens>6863</tokens><words>6863</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="902" /><!-- ., آهي, جي, کي, جو, ٿو, ٿي, ڪر, ۽, ۾, سان, ماڻهو, ته, سنڌ, نه -->
+  <forms unique="1203" /><!-- ., آهي, جي, کي, ۽, جو, ۾, سان, ٿو, ٿي, ته, نه, ڪرڻ, ماڻهو, به -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">616</tag><!-- بهتر, سٺو, خوش, گھڻو, سڀ, گھڻي, وڌ, سهڻو, سٺي, مختلف -->
+    <tag name="ADP">1046</tag><!-- جي, کي, جو, ۾, سان, ته, به, کان, تي, لاءِ -->
+    <tag name="ADV">383</tag><!-- نه, ئي, تمام, اڄ, گڏ, هميشه, ڪڏهن, اصل, صرف, ڪونه -->
+    <tag name="AUX">407</tag><!-- آهي, گھرج, آهيان, سگھي, هئي, کپي, سگھبو, سگھو, آه, سگھيس -->
+    <tag name="CCONJ">168</tag><!-- ۽, پر, جيڪڏهن, جڏهن, اگر, بلڪه, تنهنڪري, جيتوڻيڪ, سو -->
+    <tag name="DET">225</tag><!-- هُو, هر, هن, ان, هي, ڪنهن, جيڪو, ڪو, هوءَ, اهو -->
+    <tag name="INTJ">8</tag><!-- افسوس, مار, ايڏو, شاباش, هاءِ, گھوڙاڙي -->
+    <tag name="NOUN">1542</tag><!-- ماڻهو, انسان, دنيا, زندگي, ملڪ, محبت, ٻول, ڪم, عزت, قوم -->
+    <tag name="NUM">44</tag><!-- هڪ, ٻه, سئو, ٻيو, ٽين, ٻيهر, ٽي, ٽيھ, پنج -->
+    <tag name="PRON">270</tag><!-- آءُ, پنهنجي, پاڻ, منهن, پنهنجو, توهان, اچ, تون, آءَ, تنهنجي -->
+    <tag name="PROPN">301</tag><!-- سنڌ, ڪمپيوٽر, پاڪستان, اسلم, خدا, ڌڻي, گلاب, علي, گوپال, شازيه -->
+    <tag name="PUNCT">719</tag><!-- ., ، -->
+    <tag name="SCONJ">5</tag><!-- ڇاڪاڻ, بشرطيڪه -->
+    <tag name="SYM">14</tag><!-- !, ؟ -->
+    <tag name="VERB">1094</tag><!-- ٿو, ٿي, ڪر, ره, ڪن, ڏي, وڃ, ڇڏ, مل, پيو -->
+    <tag name="X">21</tag><!-- ڀي, او, ايئن, چون, ڍ, ئ, وغيره, ڌ, ڏ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="14">
+    <feat name="Case" value="Ablative" upos="NOUN">2</feat><!-- گھران -->
+    <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,PRON,PROPN,VERB">1251</feat><!-- جو, دنيا, زندگي, هن, جا, خوش, هر, ڪم, تعليم, عزت -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,DET,NOUN,PRON,PROPN,VERB">1726</feat><!-- ماڻهو, اسان, سنڌ, انسان, هُو, سنڌي, سٺو, پاڻ, بهتر, محبت -->
+    <feat name="Case" value="Possessive" upos="PRON">27</feat><!-- منهنجي, پنهنجو, منهنجو -->
+    <feat name="Case" value="Vocative" upos="INTJ">8</feat><!-- افسوس, مار, ايڏو, شاباش, هاءِهاءِ, گھوڙاڙي -->
+    <feat name="Form" value="Bound" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PRON,PROPN,SCONJ,VERB,X">2414</feat><!-- آهي, سان, گھرجي, ڪري, اسان, انسان, آهن, پنهنجي, سنڌي, سٺو -->
+    <feat name="Form" value="Simple" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PRON,PROPN,VERB,X">3582</feat><!-- جي, کي, جو, ۾, ٿو, ٿي, ته, نه, ڪرڻ, ماڻهو -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,PROPN">793</feat><!-- دنيا, سنڌ, زندگي, سنڌي, محبت, عزت, ٻولي, تعليم, عبادت, دل -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADV,DET,INTJ,NOUN,PRON,PROPN,VERB">995</feat><!-- ماڻهو, انسان, سٺو, ڪم, ملڪ, وقت, دوست, ڪو, بهترين, پاڻي -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,PROPN,VERB">701</feat><!-- اسان, ٿا, آهن, جا, پاڻ, ڪن, توهان, ماڻهن, سڀني, اچو -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PRON,PROPN,SCONJ,VERB,X">5407</feat><!-- آهي, جي, کي, ۽, جو, ۾, سان, ٿو, ٿي, ته -->
+    <feat name="Person" value="1" upos="PRON">55</feat><!-- اسان, مون, مونکي, اسين -->
+    <feat name="Person" value="2" upos="ADJ,PRON">37</feat><!-- پاڻ, سائين, سانئيم, ستا -->
+    <feat name="Person" value="3" upos="ADJ,ADV,DET,INTJ,NOUN,PRON,PROPN,VERB">2255</feat><!-- ماڻهو, دنيا, سنڌ, انسان, هُو, زندگي, هن, سنڌي, سٺو, هر -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="1">
+    <dep name="dep">6863</dep>
+  </deps>
+</treebank>

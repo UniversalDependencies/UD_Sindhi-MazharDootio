@@ -869,7 +869,7 @@
 3	ڏک	ڏک	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=dukh
 4	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	0	dep	_	Translit=Aen
 5	سک	سک	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Sukh
-6	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+6	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 74
 # text = نيڪي ۽ بدي گڏ رهڻا آهن .
@@ -889,7 +889,7 @@
 4	انهن	ان	DET	DT__ضمير_اشارو	Case=Nom|Form=Bound|Number=Plur|Person=3	0	dep	_	Translit=Unahan
 5	جي	جي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Je
 6	ٻولي	ٻول	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=boli
-7	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+7	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 76
 # text = ڌرتي ۽ ثقافت سان ٿيندي آهي .
@@ -1363,7 +1363,7 @@
 5	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Na
 6	ڪجي	ڪج	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=kajay
 7	ايتري	ايتري	ADV	RB__ظرف	Form=Bound|Number=Sing	0	dep	_	Translit=Aitery
-8	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+8	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 114
 # text = سلطاني سهاڳ ننڊون ڪندي نه ملي .
@@ -1983,7 +1983,7 @@
 5	عالم	عالم	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Aalam
 6	جو	جو	ADP	IN__حرفِ_جر	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Jo
 7	ڌڻي	ڌڻي	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=dhanni
-8	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+8	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 9	قادر	قادر	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Qaadir
 10	پنهنجي	پنهنجي	PRON	PRP__ضمير	Form=Bound|Number=Sing	0	dep	_	Translit=Pahenji
 11	قدرت	قدرت	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Qudarat
@@ -2395,7 +2395,7 @@
 16	اخلاق	اخلاق	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Ikhilaaq
 17	هئڻ	هو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=Huan
 18	گھرجي	گھرج	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=ghurjay
-19	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+19	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 192
 # text = ان سان گڏ پنهنجي عادت به بهتر ڪرڻ گھرجي ته جيئن هر ماڻهو خوش زندگي گذاري سگھي ،
@@ -2416,7 +2416,7 @@
 15	زندگي	زندگي	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Zindagi
 16	گذاري	گذار	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=guzaaray
 17	سگھي	سگھي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Saghay
-18	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+18	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 193
 # text = اصل عبادت ته انسانيت جي خدمت ڪرڻ ۾ ئي آهي .
@@ -2440,7 +2440,7 @@
 4	آزارڻ	آزار	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Aazaar
 5	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Na
 6	گھرجي	گھرج	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=ghurjay
-7	ڇاڪاڻ	ڇاڪاڻ	SCON	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=chhakaann
+7	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=chhakaann
 8	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=ta
 9	هر	هر	DET	DT__ضمير_اشارو	Case=Acc|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Har
 10	دل	دل	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Dil
@@ -2449,7 +2449,7 @@
 13	پاڻ	پاڻ	PRON	PRP__ضمير	Case=Nom|Form=Simple|Number=Plur|Person=2	0	dep	_	Translit=paan
 14	رهي	ره	VERB	VB__فعل	Case=Nom|Form=Bound|Number=Sing	0	dep	_	Translit=Rahay
 15	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=tho
-16	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+16	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 195
 # text = خبر نه آهي ته ماڻهو انسانن کي ڪيئن ڏکائن ٿا جڏهن ته پاڻ ڀي انسان آهن ،
@@ -2469,7 +2469,7 @@
 14	ڀي	ڀي	X	-__نامعلوم	Form=Simple	0	dep	_	Translit=bhe
 15	انسان	انسان	NOUN	NN__اسم	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Insaan
 16	آهن	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Plur	0	dep	_	Translit=Aahin
-17	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+17	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 196
 # text = خدا اسان سڀني کي هدايت ڏيئي ته جيئن اسان سٺا انسان ٿي سگھون ۽ هن دنيا کي خوبصورت بڻايون .
@@ -2504,7 +2504,7 @@
 6	بدلائي	بدلائي	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Badlaaey
 7	ڇڏيو	ڇڏ	VERB	VBD__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=chhaddyo
 8	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
-9	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+9	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 10	هاڻي	هاڻ	ADV	RB__ظرف	Form=Bound|Number=Sing	0	dep	_	Translit=Haanay
 11	هر	هر	DET	DT__ضمير_اشارو	Case=Acc|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Har
 12	ماڻهو	ماڻهو	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Maanhoo
@@ -2526,7 +2526,7 @@
 28	پري	پري	ADJ	JJ__صفت	Form=Simple|Number=Sing	0	dep	_	Translit=paray
 29	رکيو	رک	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Rakhyo
 30	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
-31	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+31	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 198
 # text = هاڻي ماڻهو صرف ڪمپيوٽر سان ئي ڳالهيون ڪن پيا ان جو نقصان رشتن مان محبت ختم ٿيڻ آهي ،
@@ -2548,7 +2548,7 @@
 16	ختم	ختم	ADJ	JJ__صفت	Case=Acc|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Khatam
 17	ٿيڻ	ٿي	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=thian
 18	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
-19	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+19	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 199
 # text = اسان کي ڪمپيوٽر استعمال ڪرڻ سان گڏوگڏ پنهنجن رشتيدارن کي به وقت ڏيڻ گھرجي .
@@ -3438,7 +3438,7 @@
 3	ڏک	ڏک	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=dukh
 4	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	0	dep	_	Translit=Aen
 5	سک	سک	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Sukh
-6	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+6	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 7	نيڪي	نيڪ	ADJ	JJ__صفت	Case=Nom|Form=Bound|Number=Sing|Person=3	0	dep	_	Translit=Neki
 8	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	0	dep	_	Translit=Aen
 9	بدي	بدي	ADJ	JJ__صفت	Case=Acc|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Badi
@@ -3480,7 +3480,7 @@
 4	انهن	ان	DET	DT__ضمير_اشارو	Case=Nom|Form=Bound|Number=Plur|Person=3	0	dep	_	Translit=Unahan
 5	جي	جي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Je
 6	ٻولي	ٻول	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=boli
-7	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+7	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 270
 # text = ڌرتي ۽ ثقافت سان ٿيندي آهي .
@@ -3788,7 +3788,7 @@
 # sent_id = 296
 # text = ٻولي ، ڌرتي ۽ ثقافت قومن جي سڃاڻپ هوندي آهي .
 1	ٻولي	ٻول	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=boli
-2	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+2	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 3	ڌرتي	ڌرتي	NOUN	NN__اسم	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=dharti
 4	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	0	dep	_	Translit=Aen
 5	ثقافت	ثقافت	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Saqafat
@@ -4391,7 +4391,7 @@
 9	ڏسي	ڏس	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Ddisi
 10	سگھي	سگھي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Saghay
 11	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=tho
-12	ڇاڪاڻ	ڇاڪاڻ	SCON	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=chhakaann
+12	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=chhakaann
 13	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=ta
 14	انٽرنيٽ	انٽرنيٽ	NOUN	NN__اسم	Case=Acc|Form=Bound|Gender=Masc|Number=Sing	0	dep	_	Translit=Internet
 15	پوري	پوري	ADJ	JJ__صفت	Form=Simple|Number=Sing	0	dep	_	Translit=poori
@@ -4974,7 +4974,7 @@
 5	ٿي	ٿي	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=thee
 6	پيو	پيو	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=payo
 7	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
-8	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+8	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 392
 # text = کيس ڪوئي پڇڻ وارو ئي ڪونهي ،
@@ -4984,7 +4984,7 @@
 4	وارو	وارو	ADP	IN__حرفِ_جر	Form=Bound|Number=Sing	0	dep	_	Translit=Waaro
 5	ئي	ئي	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Ee
 6	ڪونهي	ڪونه	ADV	RB__ظرف	Form=Bound|Number=Sing	0	dep	_	Translit=konhay
-7	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+7	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 393
 # text = پلپل ڏک پيو ڏسي ،
@@ -4992,7 +4992,7 @@
 2	ڏک	ڏک	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=dukh
 3	پيو	پيو	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=payo
 4	ڏسي	ڏس	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Ddisi
-5	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+5	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 394
 # text = کيس دولتمند ماڻهو دڙڪوداٻ ڪري پنهنجا ڪم وٺن ٿا ،
@@ -5005,7 +5005,7 @@
 7	ڪم	ڪم	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=kam
 8	وٺن	وٺ	VERB	VB__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=Wathan
 9	ٿا	ٿو	VERB	VB__فعل	Form=Simple|Number=Plur	0	dep	_	Translit=thaa
-10	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+10	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 395
 # text = ڪو خريدوفروخت لاءِ هن وٽ سامان جي ڪونهي جنهن سان ڪي ڪجھ خوشي جا پل ڏسي سگھن ،
@@ -5026,7 +5026,7 @@
 15	پل	پل	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=pal
 16	ڏسي	ڏس	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Ddisi
 17	سگھن	سگھي	AUX	VB__فعل_معاون	Form=Bound|Number=Plur	0	dep	_	Translit=Saghay
-18	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+18	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 396
 # text = جيڪڏهن گوڙگڙٻڙ ڪن ته کين دڙڪادهمان ۽ ڌمڪيون ملن ٿيون .
@@ -5098,7 +5098,7 @@
 9	هوءَ	هوءَ	DET	DT__ضمير_اشارو	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Hooa
 10	ڏسندي	ڏس	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Ddisandi
 11	رهي	ره	VERB	VB__فعل	Case=Nom|Form=Bound|Number=Sing	0	dep	_	Translit=Rahay
-12	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+12	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 401
 # text = جڏهن ته هُو ڇت تي هن لاءِ ئي چڙهيو هو .
@@ -5150,7 +5150,7 @@
 8	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Na
 9	ڪري	ڪر	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=karay
 10	سگھيس	سگھيس	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Saghyas
-11	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+11	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 405
 # text = پر ٻئي دفعي تنهنجي مدد ضرور ڪندس .
@@ -5222,7 +5222,7 @@
 3	ايڏو	ايڏو	INTJ	UH__حرف_ندا	Case=Vocative|Form=Simple|Number=Sing	0	dep	_	Translit=Addo
 4	وڏو	وڏو	ADJ	JJ__صفت	Case=Nom|Form=Simple|Gender=Masc|Number=Sing	0	dep	_	Translit=waddo
 5	گھر	گھر	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=ghar
-6	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+6	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 411
 # text = ڪمرا به تمام وڏا ۽ گھڻا آهن .
@@ -5364,7 +5364,7 @@
 3	ڏاڍو	ڏاڍو	ADJ	JJ__صفت	Case=Nom|Form=Bound|Number=Sing	0	dep	_	Translit=Ddaddo
 4	مٺو	مٺو	ADJ	JJ__صفت	Case=Nom|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Mitho
 5	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
-6	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+6	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 420
 # text = توهان به کائو . هي انب مٺو آهي .
@@ -5449,7 +5449,7 @@
 1	تون	تون	PRON	PRP__ضمير	Case=Nom|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Toon
 2	ڀلي	ڀلي	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=bhalay
 3	وڃ	وڃ	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=Waghh
-4	بشرطيڪه	بشرطيڪه	SCON	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=Besharteq
+4	بشرطيڪه	بشرطيڪه	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=Besharteq
 5	سڀاڻي	سڀاڻي	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Subhaane
 6	جلدي	جلد	ADV	RB__ظرف	Form=Bound|Number=Sing	0	dep	_	Translit=Jaldi
 7	اچجانءِ	اچ	PRON	PRP__ضمير	Form=Bound|Number=Sing	0	dep	_	Translit=Achjaaen
@@ -5496,7 +5496,7 @@
 1	اوهان	اوهان	PRON	PRP__ضمير	Case=Nom|Form=Bound|Number=Plur|Person=3	0	dep	_	Translit=Awhaan
 2	ڪامياب	ڪامياب	ADJ	JJ__صفت	Case=Nom|Form=Simple|Number=Sing	0	dep	_	Translit=kamyaab
 3	ٿيا	ٿي	VERB	VBD__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=thyaa
-4	ڇاڪاڻ	ڇاڪاڻ	SCON	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=chhakaann
+4	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=chhakaann
 5	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=ta
 6	اوهان	اوهان	PRON	PRP__ضمير	Case=Nom|Form=Bound|Number=Plur|Person=3	0	dep	_	Translit=Awhaan
 7	محنت	محنت	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Mehnat
@@ -5893,7 +5893,7 @@
 13	ڪري	ڪر	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=karay
 14	سنڌي	سنڌ	PROPN	NNP__اسم_خاص	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Sindhi
 15	سوچ	سوچ	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Soch
-16	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+16	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 457
 # text = ثقافت ۽ روين تي تمام گھڻو اثر ٿيو آهي .
@@ -6708,7 +6708,7 @@
 4	ڪنهن	ڪنهن	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing	0	dep	_	Translit=kehn
 5	جو	جو	ADP	IN__حرفِ_جر	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Jo
 6	ڪونهي	ڪونه	ADV	RB__ظرف	Form=Bound|Number=Sing	0	dep	_	Translit=konhay
-7	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+7	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 515
 # text = هرڪوئي پنهنجي لاءِ جيئي پيو ،
@@ -6717,7 +6717,7 @@
 3	لاءِ	لاءِ	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Lae
 4	جيئي	جيئي	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Jeeay
 5	پيو	پيو	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=payo
-6	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+6	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 516
 # text = خبر ناهي ماڻهو ايئن ڇو پيا ڪن ؟
@@ -6849,7 +6849,7 @@
 6	برباد	برباد	NOUN	NN__اسم	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Barbaad
 7	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Na
 8	ڪيو	ڪيو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=kayo
-9	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+9	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 523
 # text = ماڻهو اهو ئي ٻڌندا جيڪو هُو ٻڌڻ چاهين ٿا .
@@ -7258,7 +7258,7 @@
 5	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Na
 6	ڪجي	ڪج	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=kajay
 7	ايتري	ايتري	ADV	RB__ظرف	Form=Bound|Number=Sing	0	dep	_	Translit=Aitery
-8	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+8	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 9	سلطاني	سلطان	ADJ	JJ__صفت	Case=Nom|Form=Bound|Number=Sing|Person=3	0	dep	_	Translit=Sultaani
 10	سهاڳ	سهاڳ	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Suhaag
 11	ننڊون	ننڊ	NOUN	NNS__اسم	Case=Acc|Form=Bound|Number=Plur	0	dep	_	Translit=Nindroon
@@ -7872,7 +7872,7 @@
 5	عالم	عالم	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Aalam
 6	جو	جو	ADP	IN__حرفِ_جر	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Jo
 7	ڌڻي	ڌڻي	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=dhanni
-8	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+8	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 9	قادر	قادر	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Qaadir
 10	پنهنجي	پنهنجي	PRON	PRP__ضمير	Form=Bound|Number=Sing	0	dep	_	Translit=Pahenji
 11	قدرت	قدرت	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Qudarat
@@ -8278,7 +8278,7 @@
 16	اخلاق	اخلاق	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Ikhilaaq
 17	هئڻ	هو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=Huan
 18	گھرجي	گھرج	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=ghurjay
-19	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+19	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 630
 # text = ان سان گڏ پنهنجي عادت به بهتر ڪرڻ گھرجي ته جيئن هر ماڻهو خوش زندگي گذاري سگھي ،
@@ -8299,7 +8299,7 @@
 15	زندگي	زندگي	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Zindagi
 16	گذاري	گذار	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=guzaaray
 17	سگھي	سگھي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Saghay
-18	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+18	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 631
 # text = اصل عبادت ته انسانيت جي خدمت ڪرڻ ۾ ئي آهي .
@@ -8323,7 +8323,7 @@
 4	آزارڻ	آزار	VERB	VB__فعل	Form=Bound|Number=Sing	0	dep	_	Translit=Aazaar
 5	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Na
 6	گھرجي	گھرج	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=ghurjay
-7	ڇاڪاڻ	ڇاڪاڻ	SCON	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=chhakaann
+7	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	0	dep	_	Translit=chhakaann
 8	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=ta
 9	هر	هر	DET	DT__ضمير_اشارو	Case=Acc|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Har
 10	دل	دل	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Dil
@@ -8332,7 +8332,7 @@
 13	پاڻ	پاڻ	PRON	PRP__ضمير	Case=Nom|Form=Simple|Number=Plur|Person=2	0	dep	_	Translit=paan
 14	رهي	ره	VERB	VB__فعل	Case=Nom|Form=Bound|Number=Sing	0	dep	_	Translit=Rahay
 15	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	0	dep	_	Translit=tho
-16	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+16	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 633
 # text = خبر نه آهي ته ماڻهو انسانن کي ڪيئن ڏکائن ٿا جڏهن ته پاڻ ڀي انسان آهن ،
@@ -8352,7 +8352,7 @@
 14	ڀي	ڀي	X	-__نامعلوم	Form=Simple	0	dep	_	Translit=bhe
 15	انسان	انسان	NOUN	NN__اسم	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Insaan
 16	آهن	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Plur	0	dep	_	Translit=Aahin
-17	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+17	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 634
 # text = خدا اسان سڀني کي هدايت ڏيئي ته جيئن اسان سٺا انسان ٿي سگھون ۽ هن دنيا کي خوبصورت بڻايون .
@@ -8446,7 +8446,7 @@
 4	گڏجي	گڏ	ADV	RB__ظرف	Form=Bound|Number=Sing	0	dep	_	Translit=Gadd
 5	راند	راند	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Raand
 6	کيڏون	کيڏ	VERB	VB__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=kheddyoon
-7	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+7	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 8	راندروند	راند	NOUN	NN__اسم	Case=Nom|Form=Bound|Number=Sing|Person=3	0	dep	_	Translit=Raandroond
 9	سان	سان	ADP	IN__حرفِ_جر	Form=Bound|Number=Sing	0	dep	_	Translit=Saan
 10	صحت	صحت	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Sehat
@@ -8508,7 +8508,7 @@
 26	گواهي	گواه	NOUN	NN__اسم	Case=Acc|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=gawahee
 27	ڏين	ڏي	VERB	VB__فعل	Form=Bound|Number=Plur	0	dep	_	Translit=Ddian
 28	ٿا	ٿو	VERB	VB__فعل	Form=Simple|Number=Plur	0	dep	_	Translit=thaa
-29	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+29	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 645
 # text = سنڌ جي تهذيب دجلا ، فرات ،
@@ -8516,18 +8516,18 @@
 2	جي	جي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Je
 3	تهذيب	تهذيب	NOUN	NN__اسم	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Tahzeeb
 4	دجلا	دجلا	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing	0	dep	_	Translit=Dajlaa
-5	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+5	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 6	فرات	فرات	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Firaat
-7	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+7	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 
 # sent_id = 646
 # text = نينوا ، بابل ، سميري ، ايران ۽ مصر جي تهذيب کان آڳاٽي ۽ انوکي آهي انڪري سنڌ نه صرف سنڌين جي ماءُ آهي پر قديم يونان ۽ مصر جي ماءُ پڻ آهي .
 1	نينوا	نينوا	PROPN	NNP__اسم_خاص	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Nenwa
-2	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+2	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 3	بابل	بابل	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Babul
-4	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+4	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 5	سميري	سمير	ADJ	JJ__صفت	Case=Nom|Form=Bound|Number=Sing|Person=3	0	dep	_	Translit=Sumeri
-6	،	،	PUNC	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
+6	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	0	dep	_	Translit=،
 7	ايران	ايران	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Iran
 8	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	0	dep	_	Translit=Aen
 9	مصر	مصر	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Misr
