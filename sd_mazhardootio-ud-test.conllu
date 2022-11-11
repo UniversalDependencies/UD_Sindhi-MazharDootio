@@ -8446,7 +8446,7 @@
 # text = سنڌ جي تاريخي عظمت جو حوالو ۽ دليل نه رڳو قديم ڏيهي تاريخ مان ملي ٿو پر عالمي اتهاس جا ورق ان جي عظمت جي گواهي ڏين ٿا ،
 1	سنڌ	سنڌ	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Sindh
 2	جي	جي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	0	dep	_	Translit=Je
-3	تاريخي	تاريخ	AdJ	JJ__صفت	Case=Nom|Form=Bound|Number=Sing|Person=3	0	dep	_	Translit=Tareekhi
+3	تاريخي	تاريخ	ADJ	JJ__صفت	Case=Nom|Form=Bound|Number=Sing|Person=3	0	dep	_	Translit=Tareekhi
 4	عظمت	عظمت	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=azamat
 5	جو	جو	ADP	IN__حرفِ_جر	Case=Acc|Form=Simple|Number=Sing	0	dep	_	Translit=Jo
 6	حوالو	حوال	NOUN	NN__اسم	Case=Acc|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Hawalo
