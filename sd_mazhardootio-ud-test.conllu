@@ -64,7 +64,7 @@
 # sent_id = 6
 # text = هي منهنجو ۽ هُو تنهنجو ڪتاب آهي .
 1	هي	هي	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=He
-2	منهنجو	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnjo
+2	منهنجو	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnjo
 3	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	1	dep	_	Translit=Aen
 4	هُو	هُو	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Hoo
 5	تنهنجو	تنهنجو	PRON	PRP__ضمير	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Tuhenjo
@@ -81,7 +81,7 @@
 5	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	1	dep	_	Translit=Aen
 6	هُو	هُو	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Hoo
 7	ڪتاب	ڪتاب	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=kitaab
-8	منهنجو	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnjo
+8	منهنجو	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnjo
 9	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Aahay
 10	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
 
@@ -162,7 +162,7 @@
 4	خبر	خبر	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Khabar
 5	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 6	هُو	هُو	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Hoo
-7	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+7	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 8	زندگي	زندگي	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Zindagi
 9	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Aahay
 10	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
@@ -316,7 +316,7 @@
 
 # sent_id = 29
 # text = منهنجي سوچ ڪڏهن به بدلجي نٿي سگھي .
-1	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnji
+1	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnji
 2	سوچ	سوچ	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Soch
 3	ڪڏهن	ڪڏهن	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=kedehn
 4	به	به	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=Bi
@@ -327,9 +327,9 @@
 
 # sent_id = 30
 # text = منهنجي زال منهنجي بهترين دوست آهي .
-1	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnji
+1	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnji
 2	زال	زال	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Zaal
-3	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+3	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 4	بهترين	بهتر	ADJ	JJ__صفت	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Behtareen
 5	دوست	دوست	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Doast
 6	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Aahay
@@ -511,7 +511,7 @@
 # text = مان هينئر گھران ٿو اچان .
 1	مان	مان	PRON	PRP__ضمير	Case=Nom|Form=Simple|Number=Sing	0	dep	_	Translit=Maan
 2	هينئر	هينئر	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=Heenr
-3	گھران	گھر	NOUN	NN__اسم	Case=Ablative|Form=Bound|Number=Sing	1	dep	_	Translit=gharaan
+3	گھران	گھر	NOUN	NN__اسم	Case=Abl|Form=Bound|Number=Sing	1	dep	_	Translit=gharaan
 4	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	1	dep	_	Translit=tho
 5	اچان	اچ	VERB	VB__فعل	Form=Bound|Number=Sing	1	dep	_	Translit=Achaan
 6	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
@@ -746,7 +746,7 @@
 4	ڏيڻ	ڏي	VERB	VB__فعل	Form=Simple|Number=Sing	1	dep	_	Translit=ddian
 5	اصل	اصل	ADV	RB__ظرف	Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Asul
 6	۾	۾	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=Me
-7	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
+7	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
 8	پاڻ	پاڻ	PRON	PRP__ضمير	Case=Nom|Form=Simple|Number=Plur|Person=2	1	dep	_	Translit=paan
 9	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=khe
 10	ڌوڪو	ڌوڪو	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=dhoko
@@ -1042,7 +1042,7 @@
 # sent_id = 89A
 # text = شازيه منهنجي جان آهي .
 1	شازيه	شازيه	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Shazia
-2	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+2	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 3	جان	جان	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Jaan
 4	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Aahay
 5	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
@@ -2651,7 +2651,7 @@
 4	خبر	خبر	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Khabar
 5	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 6	هُو	هُو	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Hoo
-7	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+7	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 8	زندگي	زندگي	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Zindagi
 9	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Aahay
 10	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
@@ -2803,7 +2803,7 @@
 
 # sent_id = 218
 # text = منهنجي سوچ ڪڏهن به بدلجي نٿي سگھي .
-1	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnji
+1	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnji
 2	سوچ	سوچ	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Soch
 3	ڪڏهن	ڪڏهن	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=kedehn
 4	به	به	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=Bi
@@ -2814,9 +2814,9 @@
 
 # sent_id = 219
 # text = منهنجي زال منهنجي بهترين دوست آهي .
-1	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnji
+1	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnji
 2	زال	زال	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Zaal
-3	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+3	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 4	بهترين	بهتر	ADJ	JJ__صفت	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Behtareen
 5	دوست	دوست	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Doast
 6	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Aahay
@@ -2928,7 +2928,7 @@
 12	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 13	توهان	توهان	PRON	PRP__ضمير	Case=Nom|Form=Bound|Number=Plur|Person=3	1	dep	_	Translit=Tawhaan
 14	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=khe
-15	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
+15	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
 16	مذهب	مذهب	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Mazhab
 17	مٽائڻ	مٽاءِ	VERB	VB__فعل	Form=Bound|Number=Sing	1	dep	_	Translit=Mitaaen
 18	گھرجي	گھرج	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=ghurjay
@@ -3029,7 +3029,7 @@
 # text = مان هينئر گھران ٿو اچان .
 1	مان	مان	PRON	PRP__ضمير	Case=Nom|Form=Simple|Number=Sing	0	dep	_	Translit=Maan
 2	هينئر	هينئر	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=Heenr
-3	گھران	گھر	NOUN	NN__اسم	Case=Ablative|Form=Bound|Number=Sing	1	dep	_	Translit=gharaan
+3	گھران	گھر	NOUN	NN__اسم	Case=Abl|Form=Bound|Number=Sing	1	dep	_	Translit=gharaan
 4	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	1	dep	_	Translit=tho
 5	اچان	اچ	VERB	VB__فعل	Form=Bound|Number=Sing	1	dep	_	Translit=Achaan
 6	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
@@ -3219,7 +3219,7 @@
 12	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 13	توهان	توهان	PRON	PRP__ضمير	Case=Nom|Form=Bound|Number=Plur|Person=3	1	dep	_	Translit=Tawhaan
 14	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=khe
-15	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
+15	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
 16	مذهب	مذهب	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Mazhab
 17	مٽائڻ	مٽاءِ	VERB	VB__فعل	Form=Bound|Number=Sing	1	dep	_	Translit=Mitaaen
 18	گھرجي	گھرج	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=ghurjay
@@ -3315,7 +3315,7 @@
 4	ڏيڻ	ڏي	VERB	VB__فعل	Form=Simple|Number=Sing	1	dep	_	Translit=ddian
 5	اصل	اصل	ADV	RB__ظرف	Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Asul
 6	۾	۾	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=Me
-7	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
+7	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
 8	پاڻ	پاڻ	PRON	PRP__ضمير	Case=Nom|Form=Simple|Number=Plur|Person=2	1	dep	_	Translit=paan
 9	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=khe
 10	ڌوڪو	ڌوڪو	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=dhoko
@@ -3624,7 +3624,7 @@
 # sent_id = 282
 # text = شازيه منهنجي زندگي آهي .
 1	شازيه	شازيه	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	0	dep	_	Translit=Shazia
-2	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+2	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 3	زندگي	زندگي	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Zindagi
 4	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Aahay
 5	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
@@ -4531,7 +4531,7 @@
 4	خبر	خبر	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Khabar
 5	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 6	هُو	هُو	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Hoo
-7	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+7	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 8	زندگي	زندگي	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Zindagi
 9	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Aahay
 10	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
@@ -4685,7 +4685,7 @@
 2	تنهنجو	تنهنجو	PRON	PRP__ضمير	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Tuhenjo
 3	۽	۽	CCONJ	CC__حرف_جملو	Number=Sing	1	dep	_	Translit=Aen
 4	هي	هي	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=He
-5	منهنجو	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnjo
+5	منهنجو	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnjo
 6	قلم	قلم	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=qalam
 7	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Aahay
 8	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
@@ -5063,7 +5063,7 @@
 2	ٻڌايو	ٻڌاءِ	VERB	VB__فعل	Form=Bound|Number=Plur	1	dep	_	Translit=budhaae
 3	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 4	هُو	هُو	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Hoo
-5	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+5	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 6	ڳوٺ	ڳوٺ	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Goath
 7	جي	جي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=Je
 8	ايڪڙٻيڪڙ	ايڪڙٻيڪڙ	ADJ	JJ__صفت	Form=Bound|Number=Sing	1	dep	_	Translit=Akarbbekar
@@ -5075,7 +5075,7 @@
 
 # sent_id = 399
 # text = هاءِهاءِ ! اسلم کي ماري هنن ظلم ڪيو .
-1	هاءِهاءِ	هاءِ	INTJ	UH__حرف_ندا	Case=Vocative|Form=Bound|Number=Sing	0	dep	_	Translit=HaaeHaae
+1	هاءِهاءِ	هاءِ	INTJ	UH__حرف_ندا	Case=Voc|Form=Bound|Number=Sing	0	dep	_	Translit=HaaeHaae
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	اسلم	اسلم	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Aslam
 4	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=khe
@@ -5087,7 +5087,7 @@
 
 # sent_id = 400
 # text = گھوڙاڙي ! هُو ڇت تان ڪري پيو ۽ هوءَ ڏسندي رهي ،
-1	گھوڙاڙي	گھوڙاڙي	INTJ	UH__حرف_ندا	Case=Vocative|Form=Bound|Number=Sing	0	dep	_	Translit=ghorraray
+1	گھوڙاڙي	گھوڙاڙي	INTJ	UH__حرف_ندا	Case=Voc|Form=Bound|Number=Sing	0	dep	_	Translit=ghorraray
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=!
 3	هُو	هُو	DET	DT__ضمير_اشارو	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Hoo
 4	ڇت	ڇت	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=chhat
@@ -5116,7 +5116,7 @@
 
 # sent_id = 402
 # text = شاباش ! تون امتحان ۾ ڪامياب ٿي وئين .
-1	شاباش	شاباش	INTJ	UH__حرف_ندا	Case=Vocative|Form=Bound|Number=Sing	0	dep	_	Translit=Shaabaash
+1	شاباش	شاباش	INTJ	UH__حرف_ندا	Case=Voc|Form=Bound|Number=Sing	0	dep	_	Translit=Shaabaash
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	تون	تون	PRON	PRP__ضمير	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Toon
 4	امتحان	امتحان	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Imtehaan
@@ -5128,7 +5128,7 @@
 
 # sent_id = 403
 # text = افسوس ! آءَ تنهنجي مدد نه ڪري سگھيس .
-1	افسوس	افسوس	INTJ	UH__حرف_ندا	Case=Vocative|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Afsoos
+1	افسوس	افسوس	INTJ	UH__حرف_ندا	Case=Voc|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Afsoos
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	آءَ	آءَ	PRON	pRP__ضمير	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Aaun
 4	تنهنجي	تنهنجي	PRON	PRP__ضمير	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Tuhenji
@@ -5140,7 +5140,7 @@
 
 # sent_id = 404
 # text = افسوس ! آءَ تنهنجي هن وقت مدد نه ڪري سگھيس ،
-1	افسوس	افسوس	INTJ	UH__حرف_ندا	Case=Vocative|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Afsoos
+1	افسوس	افسوس	INTJ	UH__حرف_ندا	Case=Voc|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Afsoos
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	آءَ	آءَ	PRON	pRP__ضمير	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Aaun
 4	تنهنجي	تنهنجي	PRON	PRP__ضمير	Case=Nom|Form=Bound|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Tuhenji
@@ -5184,7 +5184,7 @@
 
 # sent_id = 407
 # text = مار ! هن ههڙو قهر ڪيو .
-1	مار	مار	INTJ	UH__حرف_ندا	Case=Vocative|Form=Simple|Number=Sing	0	dep	_	Translit=Maar
+1	مار	مار	INTJ	UH__حرف_ندا	Case=Voc|Form=Simple|Number=Sing	0	dep	_	Translit=Maar
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	هن	هن	DET	DT__ضمير_اشارو	Case=Acc|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Hin
 4	ههڙو	ههڙو	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=Hehrro
@@ -5217,9 +5217,9 @@
 
 # sent_id = 410
 # text = مار ! ايڏو وڏو گھر ،
-1	مار	مار	INTJ	UH__حرف_ندا	Case=Vocative|Form=Simple|Number=Sing	0	dep	_	Translit=Maar
+1	مار	مار	INTJ	UH__حرف_ندا	Case=Voc|Form=Simple|Number=Sing	0	dep	_	Translit=Maar
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
-3	ايڏو	ايڏو	INTJ	UH__حرف_ندا	Case=Vocative|Form=Simple|Number=Sing	1	dep	_	Translit=Addo
+3	ايڏو	ايڏو	INTJ	UH__حرف_ندا	Case=Voc|Form=Simple|Number=Sing	1	dep	_	Translit=Addo
 4	وڏو	وڏو	ADJ	JJ__صفت	Case=Nom|Form=Simple|Gender=Masc|Number=Sing	1	dep	_	Translit=waddo
 5	گھر	گھر	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=ghar
 6	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	1	punct	_	Translit=،
@@ -5778,7 +5778,7 @@
 
 # sent_id = 449
 # text = منهنجو پٽ ڪارٽون شوق سان ڏسي ٿو .
-1	منهنجو	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnjo
+1	منهنجو	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	0	dep	_	Translit=Muhnjo
 2	پٽ	پٽ	NOUN	-__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=put
 3	ڪارٽون	ڪارٽون	PROPN	NNP__اسم_خاص	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=kaartoon
 4	شوق	شوق	ADJ	JJ__صفت	Case=Nom|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=shoq
@@ -5790,7 +5790,7 @@
 # sent_id = 450
 # text = بس پنهنجو ساٿ رهي باقي هر مشڪل کي ڌڻي پاڪ جي مدد سان منهن ڏيئي وينداسين .
 1	بس	بس	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=Bas
-2	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
+2	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
 3	ساٿ	ساٿ	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Saath
 4	رهي	ره	VERB	VB__فعل	Case=Nom|Form=Bound|Number=Sing	1	dep	_	Translit=Rahay
 5	باقي	باقي	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=Baqy
@@ -6148,7 +6148,7 @@
 # text = تنهنجو ڀاڪر منهنجي زندگي ۾ تازگي پيدا ڪري ٿو .
 1	تنهنجو	تنهنجو	PRON	PRP__ضمير	Case=Nom|Form=Bound|Gender=Masc|Number=Sing|Person=3	0	dep	_	Translit=Tuhenjo
 2	ڀاڪر	ڀاڪر	NOUN	-__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=bhaakur
-3	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+3	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 4	زندگي	زندگي	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Zindagi
 5	۾	۾	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=Me
 6	تازگي	تازگي	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing	1	dep	_	Translit=Taazigi
@@ -6841,7 +6841,7 @@
 
 # sent_id = 522
 # text = پنهنجو وقت فضول وضاحتن ۾ برباد نه ڪيو ،
-1	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	0	dep	_	Translit=pahenjo
+1	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	0	dep	_	Translit=pahenjo
 2	وقت	وقت	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Waqt
 3	فضول	فضول	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Fuzool
 4	وضاحتن	وضاحت	NOUN	NN__اسم	Case=Acc|Form=Bound|Number=Plur	1	dep	_	Translit=Wazaahutan
@@ -6957,7 +6957,7 @@
 12	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 13	توهان	توهان	PRON	PRP__ضمير	Case=Nom|Form=Bound|Number=Plur|Person=3	1	dep	_	Translit=Tawhaan
 14	کي	کي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=khe
-15	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
+15	پنهنجو	پنهنجو	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=pahenjo
 16	مذهب	مذهب	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Mazhab
 17	مٽائڻ	مٽاءِ	VERB	VB__فعل	Form=Bound|Number=Sing	1	dep	_	Translit=Mitaaen
 18	گھرجي	گھرج	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=ghurjay
@@ -8434,7 +8434,7 @@
 2	جي	جي	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=Je
 3	گل	گل	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=Gul
 4	جھڙو	جھڙو	DET	DT__ضمير_اشارو	Form=Bound|Number=Sing	1	dep	_	Translit=Jehrro
-5	منهنجو	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnjo
+5	منهنجو	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnjo
 6	يار	يار	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Masc|Number=Sing|Person=3	1	dep	_	Translit=yaar
 7	آ	آ	VERB	-__فعل	Form=Simple|Number=Sing	1	dep	_	Translit=Aa
 
@@ -8755,9 +8755,9 @@
 # sent_id = 656
 # text = مونکي منهنجي سنڌ منهنجي جان کان وڌيڪ پياري آهي .
 1	مونکي	مون	PRON	PRP__ضمير	Case=Acc|Form=Bound|Number=Sing|Person=1	0	dep	_	Translit=Moonkhay
-2	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+2	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 3	سنڌ	سنڌ	PROPN	NNP__اسم_خاص	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Sindh
-4	منهنجي	منهن	PRON	PRP__ضمير	Case=Possessive|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
+4	منهنجي	منهن	PRON	PRP__ضمير	Case=Gen|Form=Bound|Number=Sing	1	dep	_	Translit=Muhnji
 5	جان	جان	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Jaan
 6	کان	کان	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=khaan
 7	وڌيڪ	وڌ	ADJ	JJ__صفت	Case=Nom|Form=Bound|Number=Sing	1	dep	_	Translit=wadheek
