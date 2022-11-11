@@ -2440,7 +2440,7 @@
 4	آزارڻ	آزار	VERB	VB__فعل	Form=Bound|Number=Sing	1	dep	_	Translit=Aazaar
 5	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=Na
 6	گھرجي	گھرج	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=ghurjay
-7	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	1	dep	_	Translit=chhakaann
+7	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound	1	dep	_	Translit=chhakaann
 8	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 9	هر	هر	DET	DT__ضمير_اشارو	Case=Acc|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Har
 10	دل	دل	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Dil
@@ -4391,7 +4391,7 @@
 9	ڏسي	ڏس	VERB	VB__فعل	Form=Bound|Number=Sing	1	dep	_	Translit=Ddisi
 10	سگھي	سگھي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=Saghay
 11	ٿو	ٿو	VERB	VB__فعل	Form=Simple|Number=Sing	1	dep	_	Translit=tho
-12	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	1	dep	_	Translit=chhakaann
+12	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound	1	dep	_	Translit=chhakaann
 13	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 14	انٽرنيٽ	انٽرنيٽ	NOUN	NN__اسم	Case=Acc|Form=Bound|Gender=Masc|Number=Sing	1	dep	_	Translit=Internet
 15	پوري	پوري	ADJ	JJ__صفت	Form=Simple|Number=Sing	1	dep	_	Translit=poori
@@ -5449,7 +5449,7 @@
 1	تون	تون	PRON	PRP__ضمير	Case=Nom|Form=Simple|Number=Sing|Person=3	0	dep	_	Translit=Toon
 2	ڀلي	ڀلي	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=bhalay
 3	وڃ	وڃ	VERB	VB__فعل	Form=Simple|Number=Sing	1	dep	_	Translit=Waghh
-4	بشرطيڪه	بشرطيڪه	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	1	dep	_	Translit=Besharteq
+4	بشرطيڪه	بشرطيڪه	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound	1	dep	_	Translit=Besharteq
 5	سڀاڻي	سڀاڻي	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=Subhaane
 6	جلدي	جلد	ADV	RB__ظرف	Form=Bound|Number=Sing	1	dep	_	Translit=Jaldi
 7	اچجانءِ	اچ	PRON	PRP__ضمير	Form=Bound|Number=Sing	1	dep	_	Translit=Achjaaen
@@ -5496,7 +5496,7 @@
 1	اوهان	اوهان	PRON	PRP__ضمير	Case=Nom|Form=Bound|Number=Plur|Person=3	0	dep	_	Translit=Awhaan
 2	ڪامياب	ڪامياب	ADJ	JJ__صفت	Case=Nom|Form=Simple|Number=Sing	1	dep	_	Translit=kamyaab
 3	ٿيا	ٿي	VERB	VBD__فعل	Form=Bound|Number=Plur	1	dep	_	Translit=thyaa
-4	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	1	dep	_	Translit=chhakaann
+4	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound	1	dep	_	Translit=chhakaann
 5	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 6	اوهان	اوهان	PRON	PRP__ضمير	Case=Nom|Form=Bound|Number=Plur|Person=3	1	dep	_	Translit=Awhaan
 7	محنت	محنت	NOUN	NN__اسم	Case=Nom|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Mehnat
@@ -8323,7 +8323,7 @@
 4	آزارڻ	آزار	VERB	VB__فعل	Form=Bound|Number=Sing	1	dep	_	Translit=Aazaar
 5	نه	نه	ADV	RB__ظرف	Form=Simple|Number=Sing	1	dep	_	Translit=Na
 6	گھرجي	گھرج	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	1	dep	_	Translit=ghurjay
-7	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound|Number=Sing	1	dep	_	Translit=chhakaann
+7	ڇاڪاڻ	ڇاڪاڻ	SCONJ	CC__حرف_جملو_شرطيه	Form=Bound	1	dep	_	Translit=chhakaann
 8	ته	ته	ADP	IN__حرفِ_جر	Form=Simple|Number=Sing	1	dep	_	Translit=ta
 9	هر	هر	DET	DT__ضمير_اشارو	Case=Acc|Form=Simple|Number=Sing|Person=3	1	dep	_	Translit=Har
 10	دل	دل	NOUN	NN__اسم	Case=Acc|Form=Simple|Gender=Fem|Number=Sing|Person=3	1	dep	_	Translit=Dil
