@@ -5274,9 +5274,6 @@
 8	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 9	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
 
-# sent_id = 416
-# text = 
-
 # sent_id = 417
 # text = جڏهن هُو ڌنڌو ڪري گھر ايندو هو ته هوءَ پنهنجا وار کولي هن تي پنهنجي حسن جا وار ڪندي هئي ۽ هُو ڏسندو رهندو هو .
 1	جڏهن	جڏهن	CCONJ	CC__حرف_جملو	Form=Simple|Number=Sing	0	dep	_	Translit=Jadehn
@@ -8800,9 +8797,6 @@
 14	پڻ	پڻ	ADV	RB__ظرف	Form=Simple|Number=Sing	0	dep	_	Translit=pinn
 15	آهي	آهي	AUX	VB__فعل_معاون	Form=Bound|Number=Sing	0	dep	_	Translit=Aahay
 16	.	.	PUNCT	-__پورو_دم	_	0	dep	_	Translit=PooroDam
-
-# sent_id = 661
-# text = 
 
 # sent_id = 662
 # text = الطاف جي سفرنامن جي هڪ خوبصورتي اها به آهي ته هو حقيقت ۾ اهي ملڪ گھمائيندا آهن .
