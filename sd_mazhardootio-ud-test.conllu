@@ -5075,7 +5075,7 @@
 
 # sent_id = 399
 # text = هاءِهاءِ ! اسلم کي ماري هنن ظلم ڪيو .
-1	هاءِهاءِ	هاءِ	INTJ	UH__حرف_ندا	Case=Voc|Number=Sing	0	dep	_	Form=Bound|Translit=HaaeHaae
+1	هاءِهاءِ	هاءِ	INTJ	UH__حرف_ندا	Number=Sing	0	dep	_	Form=Bound|Translit=HaaeHaae
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	اسلم	اسلم	PROPN	NNP__اسم_خاص	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Aslam
 4	کي	کي	ADP	IN__حرفِ_جر	Number=Sing	1	dep	_	Form=Simple|Translit=khe
@@ -5087,7 +5087,7 @@
 
 # sent_id = 400
 # text = گھوڙاڙي ! هُو ڇت تان ڪري پيو ۽ هوءَ ڏسندي رهي ،
-1	گھوڙاڙي	گھوڙاڙي	INTJ	UH__حرف_ندا	Case=Voc|Number=Sing	0	dep	_	Form=Bound|Translit=ghorraray
+1	گھوڙاڙي	گھوڙاڙي	INTJ	UH__حرف_ندا	Number=Sing	0	dep	_	Form=Bound|Translit=ghorraray
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=!
 3	هُو	هُو	DET	DT__ضمير_اشارو	Case=Nom|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Hoo
 4	ڇت	ڇت	NOUN	NN__اسم	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=chhat
@@ -5116,7 +5116,7 @@
 
 # sent_id = 402
 # text = شاباش ! تون امتحان ۾ ڪامياب ٿي وئين .
-1	شاباش	شاباش	INTJ	UH__حرف_ندا	Case=Voc|Number=Sing	0	dep	_	Form=Bound|Translit=Shaabaash
+1	شاباش	شاباش	INTJ	UH__حرف_ندا	Number=Sing	0	dep	_	Form=Bound|Translit=Shaabaash
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	تون	تون	PRON	PRP__ضمير	Case=Nom|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Toon
 4	امتحان	امتحان	NOUN	NN__اسم	Case=Acc|Gender=Masc|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Imtehaan
@@ -5128,7 +5128,7 @@
 
 # sent_id = 403
 # text = افسوس ! آءَ تنهنجي مدد نه ڪري سگھيس .
-1	افسوس	افسوس	INTJ	UH__حرف_ندا	Case=Voc|Gender=Masc|Number=Sing|Person=3	0	dep	_	Form=Bound|Translit=Afsoos
+1	افسوس	افسوس	INTJ	UH__حرف_ندا	Gender=Masc|Number=Sing|Person=3	0	dep	_	Form=Bound|Translit=Afsoos
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	آءَ	آءَ	PRON	pRP__ضمير	Case=Nom|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Aaun
 4	تنهنجي	تنهنجي	PRON	PRP__ضمير	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	dep	_	Form=Bound|Translit=Tuhenji
@@ -5140,7 +5140,7 @@
 
 # sent_id = 404
 # text = افسوس ! آءَ تنهنجي هن وقت مدد نه ڪري سگھيس ،
-1	افسوس	افسوس	INTJ	UH__حرف_ندا	Case=Voc|Gender=Masc|Number=Sing|Person=3	0	dep	_	Form=Bound|Translit=Afsoos
+1	افسوس	افسوس	INTJ	UH__حرف_ندا	Gender=Masc|Number=Sing|Person=3	0	dep	_	Form=Bound|Translit=Afsoos
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	آءَ	آءَ	PRON	pRP__ضمير	Case=Nom|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Aaun
 4	تنهنجي	تنهنجي	PRON	PRP__ضمير	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	dep	_	Form=Bound|Translit=Tuhenji
@@ -5184,7 +5184,7 @@
 
 # sent_id = 407
 # text = مار ! هن ههڙو قهر ڪيو .
-1	مار	مار	INTJ	UH__حرف_ندا	Case=Voc|Number=Sing	0	dep	_	Form=Simple|Translit=Maar
+1	مار	مار	INTJ	UH__حرف_ندا	Number=Sing	0	dep	_	Form=Simple|Translit=Maar
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
 3	هن	هن	DET	DT__ضمير_اشارو	Case=Acc|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Hin
 4	ههڙو	ههڙو	ADV	RB__ظرف	Number=Sing	1	dep	_	Form=Simple|Translit=Hehrro
@@ -5217,9 +5217,9 @@
 
 # sent_id = 410
 # text = مار ! ايڏو وڏو گھر ،
-1	مار	مار	INTJ	UH__حرف_ندا	Case=Voc|Number=Sing	0	dep	_	Form=Simple|Translit=Maar
+1	مار	مار	INTJ	UH__حرف_ندا	Number=Sing	0	dep	_	Form=Simple|Translit=Maar
 2	!	!	SYM	SYM__نشاني	_	1	dep	_	Translit=Ajabgnishani
-3	ايڏو	ايڏو	INTJ	UH__حرف_ندا	Case=Voc|Number=Sing	1	dep	_	Form=Simple|Translit=Addo
+3	ايڏو	ايڏو	INTJ	UH__حرف_ندا	Number=Sing	1	dep	_	Form=Simple|Translit=Addo
 4	وڏو	وڏو	ADJ	JJ__صفت	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	Form=Simple|Translit=waddo
 5	گھر	گھر	NOUN	NN__اسم	Case=Acc|Gender=Masc|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=ghar
 6	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	1	punct	_	Translit=،
