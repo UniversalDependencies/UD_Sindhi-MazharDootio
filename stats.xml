@@ -33,14 +33,12 @@
     <tag name="X">21</tag><!-- ڀي, او, ايئن, چون, ڍ, ئ, وغيره, ڌ, ڏ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="14">
+  <feats unique="12">
     <feat name="Case" value="Abl" upos="NOUN">2</feat><!-- گھران -->
     <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,PRON,PROPN,VERB">1251</feat><!-- جو, دنيا, زندگي, هن, جا, خوش, هر, ڪم, تعليم, عزت -->
     <feat name="Case" value="Gen" upos="PRON">27</feat><!-- منهنجي, پنهنجو, منهنجو -->
     <feat name="Case" value="Nom" upos="ADJ,ADP,DET,NOUN,PRON,PROPN,VERB">1726</feat><!-- ماڻهو, اسان, سنڌ, انسان, هُو, سنڌي, سٺو, پاڻ, بهتر, محبت -->
     <feat name="Case" value="Voc" upos="INTJ">8</feat><!-- افسوس, مار, ايڏو, شاباش, هاءِهاءِ, گھوڙاڙي -->
-    <feat name="Form" value="Bound" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PRON,PROPN,SCONJ,VERB,X">2414</feat><!-- آهي, سان, گھرجي, ڪري, اسان, انسان, آهن, پنهنجي, سنڌي, سٺو -->
-    <feat name="Form" value="Simple" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PRON,PROPN,VERB,X">3582</feat><!-- جي, کي, جو, ۾, ٿو, ٿي, ته, نه, ڪرڻ, ماڻهو -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,PROPN">793</feat><!-- دنيا, سنڌ, زندگي, سنڌي, محبت, عزت, ٻولي, تعليم, عبادت, دل -->
     <feat name="Gender" value="Masc" upos="ADJ,ADV,DET,INTJ,NOUN,PRON,PROPN,VERB">995</feat><!-- ماڻهو, انسان, سٺو, ڪم, ملڪ, وقت, دوست, ڪو, بهترين, پاڻي -->
     <feat name="Number" value="Plur" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,PROPN,VERB">701</feat><!-- اسان, ٿا, آهن, جا, پاڻ, ڪن, توهان, ماڻهن, سڀني, اچو -->
