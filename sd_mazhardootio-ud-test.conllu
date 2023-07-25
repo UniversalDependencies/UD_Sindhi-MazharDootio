@@ -8429,7 +8429,7 @@
 10	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
 
 # sent_id = 640
-# text = گلاب جي گل جھڙو منهنجو يار آ
+# text = گلاب جي گل جھڙو منهنجو يار آ .
 1	گلاب	گلاب	PROPN	NNP__اسم_خاص	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	dep	_	Form=Simple|Translit=Gulaab
 2	جي	جي	ADP	IN__حرفِ_جر	Number=Sing	1	dep	_	Form=Simple|Translit=Je
 3	گل	گل	NOUN	NN__اسم	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Gul
@@ -8437,23 +8437,23 @@
 5	منهنجو	منهن	PRON	PRP__ضمير	Case=Gen|Number=Sing	1	dep	_	Form=Bound|Translit=Muhnjo
 6	يار	يار	NOUN	NN__اسم	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=yaar
 7	آ	آ	VERB	-__فعل	Number=Sing	1	dep	_	Form=Simple|Translit=Aa
+8	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
 
 # sent_id = 641
-# text = . اچو ته گڏجي راند کيڏون ، راندروند سان صحت بهتر ٿئي ٿي .
-1	.	.	PUNCT	-__پورو_دم	_	0	punct	_	Translit=PooroDam
-2	اچو	اچ	PRON	PRP__ضمير	Number=Plur	1	dep	_	Form=Bound|Translit=Acho
-3	ته	ته	ADP	IN__حرفِ_جر	Number=Sing	1	dep	_	Form=Simple|Translit=ta
-4	گڏجي	گڏ	ADV	RB__ظرف	Number=Sing	1	dep	_	Form=Bound|Translit=Gadd
-5	راند	راند	NOUN	NN__اسم	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Raand
-6	کيڏون	کيڏ	VERB	VB__فعل	Number=Plur	1	dep	_	Form=Bound|Translit=kheddyoon
-7	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	1	punct	_	Translit=،
-8	راندروند	راند	NOUN	NN__اسم	Case=Nom|Number=Sing|Person=3	1	dep	_	Form=Bound|Translit=Raandroond
-9	سان	سان	ADP	IN__حرفِ_جر	Number=Sing	1	dep	_	Form=Bound|Translit=Saan
-10	صحت	صحت	NOUN	NN__اسم	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Sehat
-11	بهتر	بهتر	ADJ	JJ__صفت	Case=Nom|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Behtar
-12	ٿئي	ٿي	VERB	VB__فعل	Number=Sing	1	dep	_	Form=Bound|Translit=theeay
-13	ٿي	ٿي	VERB	VB__فعل	Number=Sing	1	dep	_	Form=Simple|Translit=thee
-14	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
+# text = اچو ته گڏجي راند کيڏون ، راندروند سان صحت بهتر ٿئي ٿي .
+1	اچو	اچ	PRON	PRP__ضمير	Number=Plur	0	dep	_	Form=Bound|Translit=Acho
+2	ته	ته	ADP	IN__حرفِ_جر	Number=Sing	1	dep	_	Form=Simple|Translit=ta
+3	گڏجي	گڏ	ADV	RB__ظرف	Number=Sing	1	dep	_	Form=Bound|Translit=Gadd
+4	راند	راند	NOUN	NN__اسم	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Raand
+5	کيڏون	کيڏ	VERB	VB__فعل	Number=Plur	1	dep	_	Form=Bound|Translit=kheddyoon
+6	،	،	PUNCT	-__بيهڪ_جي_نشاني	_	1	punct	_	Translit=،
+7	راندروند	راند	NOUN	NN__اسم	Case=Nom|Number=Sing|Person=3	1	dep	_	Form=Bound|Translit=Raandroond
+8	سان	سان	ADP	IN__حرفِ_جر	Number=Sing	1	dep	_	Form=Bound|Translit=Saan
+9	صحت	صحت	NOUN	NN__اسم	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Sehat
+10	بهتر	بهتر	ADJ	JJ__صفت	Case=Nom|Number=Sing|Person=3	1	dep	_	Form=Simple|Translit=Behtar
+11	ٿئي	ٿي	VERB	VB__فعل	Number=Sing	1	dep	_	Form=Bound|Translit=theeay
+12	ٿي	ٿي	VERB	VB__فعل	Number=Sing	1	dep	_	Form=Simple|Translit=thee
+13	.	.	PUNCT	-__پورو_دم	_	1	punct	_	Translit=PooroDam
 
 # sent_id = 642
 # text = ڌڻي پاڪ سڀني ماڻهن کي خوش ۽ صحتمند رکي .
