@@ -61,6 +61,7 @@ Vol.6, Issue. 2 , pages: 19-28, year December 2017
 Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction news
 Lemmas: manual native
 UPOS: manual native
